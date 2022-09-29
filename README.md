@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/ViniciusCruzZ/618ef18e3bbb7cdfd200f3a4fc1aabc6/raw/201d47c76006c99fe0dc55ea92e76bdca5537f08/githubcard.svg"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Cruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusCruzZ&color=yellow" alt="Profile views" /> </p>
 
@@ -40,7 +39,7 @@
 ## Contact
 
 <p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
+<a href="https://codepen.io/LoathX" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/SviniciusZ" target="_blank">
