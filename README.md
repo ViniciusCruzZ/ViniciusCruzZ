@@ -14,8 +14,6 @@
 
 - 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
 
-<!--
-
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -36,7 +34,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ViniciusCruzZ&show_icons=true&theme=vision-friendly-dark" alt="Vinícius Cruz's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusCruzZ&layout=compact&theme=vision-friendly-dark" alt="Vinícius Cruz's most languages"/>
 </p>
--->
 
 <br><br>
 
@@ -46,20 +43,16 @@
 <a href="https://codepen.io/maykbrito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/maykbrito" target="_blank">
+<a href="https://twitter.com/SviniciusZ" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<a href="https://linkedin.com/in/vinícius-cruz-a437431a5/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
+<a href="https://instagram.com/vvinicius_cruzz/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://youtube.com/maykbrito" target="_blank">
+<a href="https://youtube.com/channel/UCgbJxBVgzAQYiY5K6ya_N_g" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-ViniciusCruzZ-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=ViniciusCruzZ&layout=wide&show_reply=off&show_retweet=off" />
