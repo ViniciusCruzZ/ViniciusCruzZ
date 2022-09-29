@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Freelancer]
 
-- ▶️ I (don't) do lives daily on [twitch](https://twitch.tv/tangerinapitt)
+- ▶️ I (don't) do lives daily on [Twitch](https://twitch.tv/tangerinapitt)
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python**
 
