@@ -1,7 +1,7 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Cruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusCruzZ&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Sênior Web Developer & computer science student 
+- 🔥 Junior Web Developer & computer science student 
 
 - 🔭 I’m currently working at [Freelancer]
 
@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I'm a little weird 😜**
 
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)
+- 👨‍💻 More at [Vincius-Cruz.dev](https://vinicius-cruz.dev)
 
 <br><br>
 
