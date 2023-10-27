@@ -24,7 +24,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=PHP&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sql)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 
 <br><br>
 
