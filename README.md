@@ -1,13 +1,13 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Vinícius Cruz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ViniciusCruzZ&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & computer science student 
+- 🔥 Software Developer & computer science 
 
-- 🔭 I’m currently working at [Freelancer]
+- 🔭 I’m currently working at [PROTTUS]
 
 - ▶️ I (don't) do lives daily on [Twitch](https://twitch.tv/tangerinapitt)
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python**
+- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Python, PHP, React and React Native**
 
 - ⚡ Fun fact **I'm a little weird 😜**
 
